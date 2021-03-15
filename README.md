@@ -1,9 +1,9 @@
-#Le Projet PetShop
-le but de ce projet été de rendre un site web dynamique.
-cela est fait grace où modèle MVC du jee, la partie vue de ce modèle se montre par le dossier où 
-on constate le regroupement des différents Jsp qui forme notre site web,pour la partie Contrôleur tous 
-les classes java qui joue se rôlent est regroupé dans un package Servlet enfin pour la partie Modéle 
-on a regroupé la classe qui fait la connexion avec la base de données et les classes qui fait des 
-opérations sur cette base de données dans un package de nom DAO .
+# Le Projet PetShop
+le but de ce projet Ã©tÃ© de rendre un site web dynamique.
+cela est fait grace oÃ¹ modÃ¨le MVC du jee, la partie vue de ce modÃ¨le se montre par le dossier oÃ¹ 
+on constate le regroupement des diffÃ©rents Jsp qui forme notre site web,pour la partie ContrÃ´leur tous 
+les classes java qui joue se rÃ´lent est regroupÃ© dans un package Servlet enfin pour la partie ModÃ©le 
+on a regroupÃ© la classe qui fait la connexion avec la base de donnÃ©es et les classes qui fait des 
+opÃ©rations sur cette base de donnÃ©es dans un package de nom DAO .
 On aussi utilise des JavaBean pour nous aider dans le codage et aussi pour rendre le code plus lisible
 dans un package beans.
